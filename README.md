@@ -1,6 +1,6 @@
 # sass-boilerplate
 
-//live server 익스텐션 설치는 기본! live server와 궁합이 좋은 live sass compiler를 사용한다.
+- live server 익스텐션 설치는 기본! live server와 궁합이 좋은 live sass compiler를 사용한다.
 
 VS CODE에서
 1. Live Sass Compiler 설치
